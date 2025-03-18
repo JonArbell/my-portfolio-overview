@@ -44,7 +44,7 @@ This is a full-stack portfolio website designed to showcase my projects, skills,
 ## 📬 Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 
-- 📧 **Email:** deocampo.arbelldonor@gmail.com
+- 📧 **Email:** [deocampo.arbelldonor@gmail.com](mailto:deocampo.arbelldonor@gmail.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284)
 - 📸 **Instagram:** [https://www.instagram.com/j_arbelldeocampo](https://www.instagram.com/j_arbelldeocampo)
 
