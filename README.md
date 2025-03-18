@@ -30,8 +30,8 @@ This is a full-stack portfolio website designed to showcase my projects, skills,
 
 ## 📂 Repositories
 
-- Frontend: GitHub Link
-- Backend: GitHub Link
+- **Frontend:** [GitHub - My Portfolio Frontend Repository](https://github.com/JonArbell/jon-arbell-de-ocampo-portfolio-frontend)
+- **Backend:** [GitHub - My Portfolio Frontend Repository](https://github.com/JonArbell/jon-arbell-de-ocampo-portfolio-backend)
 
 
 ---
