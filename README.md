@@ -50,4 +50,4 @@ If you'd like to connect or collaborate, feel free to reach out:
 
 ---
 
-👨‍💻 Developed & maintained by Jon Arbell De Ocampo
+👨‍💻 Developed & maintained by *Jon Arbell De Ocampo*
