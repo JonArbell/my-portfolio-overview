@@ -11,11 +11,13 @@ This is a full-stack portfolio website designed to showcase my projects, skills,
 
 ---
 
+
 ## ✨ Features
-- 🧑‍💻 About Me – Learn about my background and expertise.
-- 🏆 Projects – A showcase of my key projects and achievements.
-- 🎨 Hobbies – Featuring photography, photo manipulation, and short filmmaking.
-- 📬 Contact – Reach me via email or LinkedIn.
+- 🧑‍💻 **About Me** – Learn about my background and expertise.
+- 🏆 **Projects** – A showcase of my personal projects and achievements.
+- 🎨 **Hobbies** – Featuring photography, photo manipulation, and short filmmaking.
+- 📬 **Contact Me** – Form with email, name, and message, with an automatic reply after submission.
+
 
 ---
 
