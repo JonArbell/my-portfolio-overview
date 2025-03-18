@@ -1,8 +1,7 @@
 # 🚀 Portfolio Website
 
 ## 📌 Overview
-A full-stack portfolio built with Angular (frontend) and Spring Boot (backend). Showcasing my projects, skills, and hobbies with a modern and responsive UI.
-
+This is a full-stack portfolio website designed to showcase my projects, skills, and hobbies in a clean and responsive UI. The frontend is built with Angular, providing a smooth and interactive user experience, while the backend is powered by Spring Boot to handle backend logic, including the contact form functionality.
 
 ## 🛠 Tech Stack
 - 🖥 **Frontend:** Angular (Deployed on Netlify)
