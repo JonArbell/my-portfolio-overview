@@ -5,7 +5,7 @@ This is a full-stack portfolio website designed to showcase my projects, skills,
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies Used
 - 🖥 **Frontend:** Angular (Deployed on Netlify)
 - ⚙️ **Backend:** Spring Boot (Deployed on Render)
 
