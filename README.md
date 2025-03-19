@@ -10,7 +10,6 @@ This is a full-stack portfolio website designed to showcase my projects, skills,
 
   - Built with Angular for a dynamic, single-page application experience.
   - Tailwind CSS ensures a modern, responsive, and visually appealing design.
-  - Deployed on Netlify for fast and reliable hosting.
 
 #### ⚙️ Backend (Spring Boot)
   - Handles contact form submissions securely.
